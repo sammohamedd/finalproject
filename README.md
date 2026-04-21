@@ -1,14 +1,12 @@
 # **CS3910 Final Project**
 
-An interactive web application that explores the relationship between sodium ion levels, neural activity, and how it correlates to autism through an educational, youth-friendly interface
-
+An interactive web application intended for the Iowa population, and or people curious about water qualities, and its effect on your body over time. This is ment to be a educational application ment to be a bite size version of the very thorough information out there, making it suitable for all audiences interested.
 ## **Team Members**
 - Nity Elangovan
 - Samsam Mohamed
 
 ## Project Overview
-This project is intended for younger audiences to learn about neuroscience using an neuron simulator to analyze the role sodium and other factors play in autism diagnoses
-
+This project is intended for all audiences interested in Iowa water qualitiy and its effect on the human body.
 ## Features
 
 ### Core Functionalities
@@ -19,7 +17,7 @@ This project is intended for younger audiences to learn about neuroscience using
 - Statistics page health-realated information
 - Clean, youthful visual design
 ### Intended Audience
-- High school students, especially those in advanced science courses 
+- Iowa residents
 ## Project Structure
 
 - Display setup right here
